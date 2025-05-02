@@ -1,0 +1,8 @@
+apiVersion: dms.io/v1
+kind: CarStock
+metadata:
+  name: mumbai-benz-inventory
+spec:
+  location: Mumbai
+  model: Mercedes-Benz GLA
+  quantity: 7
